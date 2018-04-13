@@ -1,0 +1,2 @@
+这是一个MPChartLib库的使用，对于该库已经稍加修改。
+主要是UI美工和PD要求的效果，原来的MPChartLib满足不了
